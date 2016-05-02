@@ -1,0 +1,1 @@
+$(document).ready(function(){"use strict";$("#top").vide("assets/images/video/ocean",{posterType:"jpg"}),$(function(){$(".player").mb_YTPlayer()})});

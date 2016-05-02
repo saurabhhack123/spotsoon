@@ -1,0 +1,1 @@
+$(document).ready(function(){"use strict";$("#slides").superslides({play:6e3,animation:"fade",pagination:!1})});
